@@ -1,0 +1,23 @@
+p {
+    background-color: rgba(246, 164, 164, 0.932);
+}
+
+body {
+    font-family: Verdana, sans-serif;
+}
+
+#numbertwo {
+    color: blue;
+    font-size: 36px;
+}
+
+#numberthree {
+    font-size: 36px;
+}
+
+#numberfour {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(150, 248, 131);
+}
+
